@@ -55,5 +55,5 @@ The application will open at `http://localhost:3000`.
 - `backend/`: Spring Boot server code.
 - `frontend/`: React application code.
 
-## License
-MIT License
+## Note
+Some changes are still required to make the project fully functional and to enhance its overall performance and quality.
